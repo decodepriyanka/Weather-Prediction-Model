@@ -5,6 +5,7 @@
 ### numpy
 
 ### opencv-python
+### pillow 
 
 # Run:
 
